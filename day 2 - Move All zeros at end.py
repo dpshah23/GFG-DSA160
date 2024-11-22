@@ -1,7 +1,5 @@
 class Solution:
 	def pushZerosToEnd(self,arr):
-    	# code here
-
         n = len(arr)
         non_zero_index = 0
 
